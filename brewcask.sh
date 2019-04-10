@@ -24,6 +24,7 @@ brew cask instal google-japanese-ime
 brew cask instal intellij-idea
 brew cask instal iterm2
 brew cask instal java6
+brew cask instal jetbrains-toolbox
 brew cask instal karabiner-elements
 brew cask instal keepassx
 brew cask instal magican
