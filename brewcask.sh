@@ -35,8 +35,10 @@ brew cask instal postman
 brew cask instal rdm
 brew cask instal sequel-pro
 brew cask instal slack
+brew cask instal shiftit
 brew cask instal sourcetree
 brew cask instal sublime-text
+brew cask instal tableplu
 brew cask instal the-unarchiver
 brew cask instal vagrant
 brew cask instal virtualbox

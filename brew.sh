@@ -6,6 +6,7 @@ brew install automake
 brew install awscli
 brew install bash-completion
 brew install bison
+brew install composer
 brew install bzip2
 brew install curl
 brew install nodebrew
@@ -54,6 +55,7 @@ brew install source-highlight
 brew install the_silver_searcher
 brew install telnet
 brew install tig
+brew install terraform
 brew install tree
 brew install unixodbc
 brew install vagrant-completion
