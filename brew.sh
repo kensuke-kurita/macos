@@ -50,6 +50,7 @@ brew install qt
 brew install rbenv
 brew install re2c
 brew install readline
+brew install redis
 brew install ruby-build
 brew install source-highlight
 brew install the_silver_searcher
